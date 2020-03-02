@@ -1,0 +1,11 @@
+D:\Documents\GitHub\C#\Studying_csharp\bin\Debug\netcoreapp3.1\Studying_csharp.exe
+D:\Documents\GitHub\C#\Studying_csharp\bin\Debug\netcoreapp3.1\Studying_csharp.deps.json
+D:\Documents\GitHub\C#\Studying_csharp\bin\Debug\netcoreapp3.1\Studying_csharp.runtimeconfig.json
+D:\Documents\GitHub\C#\Studying_csharp\bin\Debug\netcoreapp3.1\Studying_csharp.runtimeconfig.dev.json
+D:\Documents\GitHub\C#\Studying_csharp\bin\Debug\netcoreapp3.1\Studying_csharp.dll
+D:\Documents\GitHub\C#\Studying_csharp\bin\Debug\netcoreapp3.1\Studying_csharp.pdb
+D:\Documents\GitHub\C#\Studying_csharp\obj\Debug\netcoreapp3.1\Studying_csharp.csprojAssemblyReference.cache
+D:\Documents\GitHub\C#\Studying_csharp\obj\Debug\netcoreapp3.1\Studying_csharp.AssemblyInfoInputs.cache
+D:\Documents\GitHub\C#\Studying_csharp\obj\Debug\netcoreapp3.1\Studying_csharp.AssemblyInfo.cs
+D:\Documents\GitHub\C#\Studying_csharp\obj\Debug\netcoreapp3.1\Studying_csharp.dll
+D:\Documents\GitHub\C#\Studying_csharp\obj\Debug\netcoreapp3.1\Studying_csharp.pdb
