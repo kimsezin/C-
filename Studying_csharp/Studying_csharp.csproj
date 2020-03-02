@@ -8,6 +8,7 @@
   <ItemGroup>
     <Compile Remove="DelegateApp.cs" />
     <Compile Remove="EventApp.cs" />
+    <Compile Remove="GenericClassApp.cs" />
     <Compile Remove="OperatorOverloadingApp.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
@@ -15,6 +16,7 @@
   <ItemGroup>
     <None Include="DelegateApp.cs" />
     <None Include="EventApp.cs" />
+    <None Include="GenericClassApp.cs" />
     <None Include="OperatorOverloadingApp.cs" />
     <None Include="Program.cs" />
   </ItemGroup>
