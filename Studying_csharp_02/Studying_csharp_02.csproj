@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ArrayOfArrayApp.cs" />
+    <Compile Remove="ArrayTypeApp.cs" />
+    <Compile Remove="ConditinalOperatorApp.cs" />
+    <Compile Remove="DoubleVsDecimalApp.cs" />
+    <Compile Remove="EnumTypeApp.cs" />
+    <Compile Remove="IdentifierApp.cs" />
+    <Compile Remove="IntegerConstantApp.cs" />
+    <Compile Remove="IntTypeApp.cs" />
+    <Compile Remove="IsAsOperatorApp.cs" />
+    <Compile Remove="PrintTenltemApp.cs" />
+    <Compile Remove="RealConstantApp.cs" />
+    <Compile Remove="StringApp.cs" />
+    <Compile Remove="StringConstantApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ConditinalOperatorApp.cs" />
+    <None Include="IsAsOperatorApp.cs" />
+    <None Include="PrintTenltemApp.cs" />
+    <None Include="StringApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ArrayOfArrayApp.cs" />
+    <None Include="ArrayTypeApp.cs" />
+    <None Include="DoubleVsDecimalApp.cs" />
+    <None Include="EnumTypeApp.cs" />
+    <None Include="IdentifierApp.cs" />
+    <None Include="IntegerConstantApp.cs" />
+    <None Include="IntTypeApp.cs" />
+    <None Include="RealConstantApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="StringConstantApp.cs" />
+  </ItemGroup>
+
+</Project>

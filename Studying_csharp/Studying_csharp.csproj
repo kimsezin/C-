@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,17 +8,23 @@
   <ItemGroup>
     <Compile Remove="DelegateApp.cs" />
     <Compile Remove="EventApp.cs" />
+    <Compile Remove="example_1_5_1.cs" />
+    <Compile Remove="example_1_5_2.cs" />
     <Compile Remove="GenericClassApp.cs" />
     <Compile Remove="OperatorOverloadingApp.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="ThreadApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="DelegateApp.cs" />
     <None Include="EventApp.cs" />
+    <None Include="example_1_5_1.cs" />
+    <None Include="example_1_5_2.cs" />
     <None Include="GenericClassApp.cs" />
     <None Include="OperatorOverloadingApp.cs" />
     <None Include="Program.cs" />
+    <None Include="ThreadApp.cs" />
   </ItemGroup>
 
 </Project>
