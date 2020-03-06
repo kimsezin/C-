@@ -1,8 +1,36 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AnotherBlockApp.cs" />
+    <Compile Remove="AssignmentStApp.cs" />
+    <Compile Remove="CalculatorApp.cs" />
+    <Compile Remove="CompoundApp.cs" />
+    <Compile Remove="ForeachStApp.cs" />
+    <Compile Remove="LocalVariableApp.cs" />
+    <Compile Remove="OverflowApp.cs" />
+    <Compile Remove="ReadIntegerApp.cs" />
+    <Compile Remove="ReadLineApp.cs" />
+    <Compile Remove="SimpleIOApp.cs" />
+    <Compile Remove="SwitchStWithStringApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AnotherBlockApp.cs" />
+    <None Include="AssignmentStApp.cs" />
+    <None Include="CalculatorApp.cs" />
+    <None Include="CompoundApp.cs" />
+    <None Include="ForeachStApp.cs" />
+    <None Include="LocalVariableApp.cs" />
+    <None Include="OverflowApp.cs" />
+    <None Include="ReadIntegerApp.cs" />
+    <None Include="ReadLineApp.cs" />
+    <None Include="SimpleIOApp.cs" />
+    <None Include="SwitchStWithStringApp.cs" />
+  </ItemGroup>
 
 </Project>

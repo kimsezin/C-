@@ -1,0 +1,11 @@
+D:\Documents\GitHub\C#\Studying_csharp_04\bin\Debug\netcoreapp3.1\Studying_csharp_04.exe
+D:\Documents\GitHub\C#\Studying_csharp_04\bin\Debug\netcoreapp3.1\Studying_csharp_04.deps.json
+D:\Documents\GitHub\C#\Studying_csharp_04\bin\Debug\netcoreapp3.1\Studying_csharp_04.runtimeconfig.json
+D:\Documents\GitHub\C#\Studying_csharp_04\bin\Debug\netcoreapp3.1\Studying_csharp_04.runtimeconfig.dev.json
+D:\Documents\GitHub\C#\Studying_csharp_04\bin\Debug\netcoreapp3.1\Studying_csharp_04.dll
+D:\Documents\GitHub\C#\Studying_csharp_04\bin\Debug\netcoreapp3.1\Studying_csharp_04.pdb
+D:\Documents\GitHub\C#\Studying_csharp_04\obj\Debug\netcoreapp3.1\Studying_csharp_04.csprojAssemblyReference.cache
+D:\Documents\GitHub\C#\Studying_csharp_04\obj\Debug\netcoreapp3.1\Studying_csharp_04.AssemblyInfoInputs.cache
+D:\Documents\GitHub\C#\Studying_csharp_04\obj\Debug\netcoreapp3.1\Studying_csharp_04.AssemblyInfo.cs
+D:\Documents\GitHub\C#\Studying_csharp_04\obj\Debug\netcoreapp3.1\Studying_csharp_04.dll
+D:\Documents\GitHub\C#\Studying_csharp_04\obj\Debug\netcoreapp3.1\Studying_csharp_04.pdb

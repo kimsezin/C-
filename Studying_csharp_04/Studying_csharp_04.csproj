@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CallByObjectReferenceApp.cs" />
+    <Compile Remove="CallByReferenceApp.cs" />
+    <Compile Remove="CallByValueApp.cs" />
+    <Compile Remove="CommandLineArgsApp.cs" />
+    <Compile Remove="ConstVsReadOnlyApp.cs" />
+    <Compile Remove="DestructorApp.cs" />
+    <Compile Remove="Dispose.cs" />
+    <Compile Remove="FractionApp.cs" />
+    <Compile Remove="IndexerApp.cs" />
+    <Compile Remove="MethodOverloadingApp.cs" />
+    <Compile Remove="OverloadedConstructorApp.cs" />
+    <Compile Remove="ParameterArrayApp.cs" />
+    <Compile Remove="PropertyApp.cs" />
+    <Compile Remove="PropertyWithManyFieldsApp.cs" />
+    <Compile Remove="PropertyWithoutFieldApp.cs" />
+    <Compile Remove="RWOnlyPropertyApp.cs" />
+    <Compile Remove="StaticConstructorApp.cs" />
+    <Compile Remove="StaticVsInstanceApp.cs" />
+    <Compile Remove="StringIndexerApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="CallByObjectReferenceApp.cs" />
+    <None Include="CallByReferenceApp.cs" />
+    <None Include="CallByValueApp.cs" />
+    <None Include="CommandLineArgsApp.cs" />
+    <None Include="ConstVsReadOnlyApp.cs" />
+    <None Include="DestructorApp.cs" />
+    <None Include="Dispose.cs" />
+    <None Include="FractionApp.cs" />
+    <None Include="IndexerApp.cs" />
+    <None Include="MethodOverloadingApp.cs" />
+    <None Include="OverloadedConstructorApp.cs" />
+    <None Include="ParameterArrayApp.cs" />
+    <None Include="PropertyApp.cs" />
+    <None Include="PropertyWithManyFieldsApp.cs" />
+    <None Include="PropertyWithoutFieldApp.cs" />
+    <None Include="RWOnlyPropertyApp.cs" />
+    <None Include="StaticConstructorApp.cs" />
+    <None Include="StaticVsInstanceApp.cs" />
+    <None Include="StringIndexerApp.cs" />
+  </ItemGroup>
+
+</Project>
