@@ -11,11 +11,16 @@
     <Compile Remove="CallByValueApp.cs" />
     <Compile Remove="CommandLineArgsApp.cs" />
     <Compile Remove="ConstVsReadOnlyApp.cs" />
+    <Compile Remove="DelegateCallApp.cs" />
+    <Compile Remove="DelegateOperationApp.cs" />
     <Compile Remove="DestructorApp.cs" />
     <Compile Remove="Dispose.cs" />
+    <Compile Remove="EventHandlingApp.cs" />
     <Compile Remove="FractionApp.cs" />
     <Compile Remove="IndexerApp.cs" />
     <Compile Remove="MethodOverloadingApp.cs" />
+    <Compile Remove="MultiCastApp.cs" />
+    <Compile Remove="OperatorOverloadingApp.cs" />
     <Compile Remove="OverloadedConstructorApp.cs" />
     <Compile Remove="ParameterArrayApp.cs" />
     <Compile Remove="PropertyApp.cs" />
@@ -25,6 +30,7 @@
     <Compile Remove="StaticConstructorApp.cs" />
     <Compile Remove="StaticVsInstanceApp.cs" />
     <Compile Remove="StringIndexerApp.cs" />
+    <Compile Remove="XBoolApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -33,11 +39,16 @@
     <None Include="CallByValueApp.cs" />
     <None Include="CommandLineArgsApp.cs" />
     <None Include="ConstVsReadOnlyApp.cs" />
+    <None Include="DelegateCallApp.cs" />
+    <None Include="DelegateOperationApp.cs" />
     <None Include="DestructorApp.cs" />
     <None Include="Dispose.cs" />
+    <None Include="EventHandlingApp.cs" />
     <None Include="FractionApp.cs" />
     <None Include="IndexerApp.cs" />
     <None Include="MethodOverloadingApp.cs" />
+    <None Include="MultiCastApp.cs" />
+    <None Include="OperatorOverloadingApp.cs" />
     <None Include="OverloadedConstructorApp.cs" />
     <None Include="ParameterArrayApp.cs" />
     <None Include="PropertyApp.cs" />
@@ -47,6 +58,7 @@
     <None Include="StaticConstructorApp.cs" />
     <None Include="StaticVsInstanceApp.cs" />
     <None Include="StringIndexerApp.cs" />
+    <None Include="XBoolApp.cs" />
   </ItemGroup>
 
 </Project>
