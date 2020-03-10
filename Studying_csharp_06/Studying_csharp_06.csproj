@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ConditionalAttrApp.cs" />
+    <Compile Remove="DivByZeroExceptionApp.cs" />
+    <Compile Remove="FinallyClauseApp.cs" />
+    <Compile Remove="GenericClassApp.cs" />
+    <Compile Remove="IndexOutOfRangeApp.cs" />
+    <Compile Remove="MsgExceptionApp.cs" />
+    <Compile Remove="MyAttributeApp.cs" />
+    <Compile Remove="ObsoleteAttrApp.cs" />
+    <Compile Remove="PropagateApp.cs" />
+    <Compile Remove="SimpleThreadApp.cs" />
+    <Compile Remove="SystemExThrowApp.cs" />
+    <Compile Remove="SystemHandlerApp.cs" />
+    <Compile Remove="ThreadPropertyApp.cs" />
+    <Compile Remove="UserExceptionApp.cs" />
+    <Compile Remove="UserExThrowApp.cs" />
+    <Compile Remove="UserHandlerApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ConditionalAttrApp.cs" />
+    <None Include="DivByZeroExceptionApp.cs" />
+    <None Include="FinallyClauseApp.cs" />
+    <None Include="GenericClassApp.cs" />
+    <None Include="IndexOutOfRangeApp.cs" />
+    <None Include="MsgExceptionApp.cs" />
+    <None Include="MyAttributeApp.cs" />
+    <None Include="ObsoleteAttrApp.cs" />
+    <None Include="PropagateApp.cs" />
+    <None Include="SimpleThreadApp.cs" />
+    <None Include="SystemExThrowApp.cs" />
+    <None Include="SystemHandlerApp.cs" />
+    <None Include="ThreadPropertyApp.cs" />
+    <None Include="UserExceptionApp.cs" />
+    <None Include="UserExThrowApp.cs" />
+    <None Include="UserHandlerApp.cs" />
+  </ItemGroup>
+
+</Project>

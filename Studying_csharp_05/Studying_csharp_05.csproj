@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AbstractClassApp.cs" />
+    <Compile Remove="AddendumApp.cs" />
+    <Compile Remove="BaseCallApp.cs" />
+    <Compile Remove="ClassTypeConversionApp.cs" />
+    <Compile Remove="DerivedConstructorApp.cs" />
+    <Compile Remove="DiamondApp.cs" />
+    <Compile Remove="HiddenNameApp.cs" />
+    <Compile Remove="ImplementingInterfaceApp.cs" />
+    <Compile Remove="OverridingAndOverloadIngApp.cs" />
+    <Compile Remove="PolymorphismApp.cs" />
+    <Compile Remove="VirtualAndOverrideApp.cs" />
+    <Compile Remove="VirtualMethodApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="AbstractClassApp.cs" />
+    <None Include="AddendumApp.cs" />
+    <None Include="BaseCallApp.cs" />
+    <None Include="ClassTypeConversionApp.cs" />
+    <None Include="DerivedConstructorApp.cs" />
+    <None Include="DiamondApp.cs" />
+    <None Include="HiddenNameApp.cs" />
+    <None Include="ImplementingInterfaceApp.cs" />
+    <None Include="OverridingAndOverloadIngApp.cs" />
+    <None Include="PolymorphismApp.cs" />
+    <None Include="VirtualAndOverrideApp.cs" />
+    <None Include="VirtualMethodApp.cs" />
+  </ItemGroup>
+
+</Project>

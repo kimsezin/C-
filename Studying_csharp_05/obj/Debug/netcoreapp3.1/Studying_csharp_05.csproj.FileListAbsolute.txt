@@ -1,0 +1,11 @@
+D:\Documents\GitHub\C#\Studying_csharp_05\bin\Debug\netcoreapp3.1\Studying_csharp_05.exe
+D:\Documents\GitHub\C#\Studying_csharp_05\bin\Debug\netcoreapp3.1\Studying_csharp_05.deps.json
+D:\Documents\GitHub\C#\Studying_csharp_05\bin\Debug\netcoreapp3.1\Studying_csharp_05.runtimeconfig.json
+D:\Documents\GitHub\C#\Studying_csharp_05\bin\Debug\netcoreapp3.1\Studying_csharp_05.runtimeconfig.dev.json
+D:\Documents\GitHub\C#\Studying_csharp_05\bin\Debug\netcoreapp3.1\Studying_csharp_05.dll
+D:\Documents\GitHub\C#\Studying_csharp_05\bin\Debug\netcoreapp3.1\Studying_csharp_05.pdb
+D:\Documents\GitHub\C#\Studying_csharp_05\obj\Debug\netcoreapp3.1\Studying_csharp_05.csprojAssemblyReference.cache
+D:\Documents\GitHub\C#\Studying_csharp_05\obj\Debug\netcoreapp3.1\Studying_csharp_05.AssemblyInfoInputs.cache
+D:\Documents\GitHub\C#\Studying_csharp_05\obj\Debug\netcoreapp3.1\Studying_csharp_05.AssemblyInfo.cs
+D:\Documents\GitHub\C#\Studying_csharp_05\obj\Debug\netcoreapp3.1\Studying_csharp_05.dll
+D:\Documents\GitHub\C#\Studying_csharp_05\obj\Debug\netcoreapp3.1\Studying_csharp_05.pdb
