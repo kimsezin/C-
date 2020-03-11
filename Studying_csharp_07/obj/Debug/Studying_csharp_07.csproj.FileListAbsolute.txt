@@ -1,0 +1,11 @@
+D:\Documents\GitHub\C#\Studying_csharp_07\bin\Debug\Studying_csharp_07.exe.config
+D:\Documents\GitHub\C#\Studying_csharp_07\bin\Debug\Studying_csharp_07.exe
+D:\Documents\GitHub\C#\Studying_csharp_07\bin\Debug\Studying_csharp_07.pdb
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.csprojAssemblyReference.cache
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.Form1.resources
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.Properties.Resources.resources
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.csproj.GenerateResource.cache
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.exe
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.pdb
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.LoadClosedEventApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.PromptCloseApp.resources

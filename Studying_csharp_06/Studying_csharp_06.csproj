@@ -15,13 +15,22 @@
     <Compile Remove="MyAttributeApp.cs" />
     <Compile Remove="ObsoleteAttrApp.cs" />
     <Compile Remove="PropagateApp.cs" />
+    <Compile Remove="SchedulerApp.cs" />
     <Compile Remove="SimpleThreadApp.cs" />
     <Compile Remove="SystemExThrowApp.cs" />
     <Compile Remove="SystemHandlerApp.cs" />
+    <Compile Remove="ThreadJoinApp.cs" />
+    <Compile Remove="ThreadPriorityApp.cs" />
     <Compile Remove="ThreadPropertyApp.cs" />
+    <Compile Remove="ThreadStateApp.cs" />
     <Compile Remove="UserExceptionApp.cs" />
     <Compile Remove="UserExThrowApp.cs" />
     <Compile Remove="UserHandlerApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="SchedulerApp.cs" />
+    <None Include="ThreadJoinApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -37,7 +46,9 @@
     <None Include="SimpleThreadApp.cs" />
     <None Include="SystemExThrowApp.cs" />
     <None Include="SystemHandlerApp.cs" />
+    <None Include="ThreadPriorityApp.cs" />
     <None Include="ThreadPropertyApp.cs" />
+    <None Include="ThreadStateApp.cs" />
     <None Include="UserExceptionApp.cs" />
     <None Include="UserExThrowApp.cs" />
     <None Include="UserHandlerApp.cs" />
