@@ -9,3 +9,6 @@ D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.exe
 D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.pdb
 D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.LoadClosedEventApp.resources
 D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.PromptCloseApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.SizeVsClientSizeApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.PaintEventApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_07\obj\Debug\Studying_csharp_07.MoveResizeApp.resources

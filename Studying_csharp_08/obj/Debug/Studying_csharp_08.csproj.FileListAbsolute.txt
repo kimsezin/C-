@@ -1,0 +1,16 @@
+D:\Documents\GitHub\C#\Studying_csharp_08\bin\Debug\Studying_csharp_08.exe.config
+D:\Documents\GitHub\C#\Studying_csharp_08\bin\Debug\Studying_csharp_08.exe
+D:\Documents\GitHub\C#\Studying_csharp_08\bin\Debug\Studying_csharp_08.pdb
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.csprojAssemblyReference.cache
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.ButtonApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.Properties.Resources.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.csproj.GenerateResource.cache
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.exe
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.pdb
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.CheckBoxApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.RadioButtonApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.TextBoxApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.LinkLabelApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.ListBoxApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.ComboBoxApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_08\obj\Debug\Studying_csharp_08.CheckedListBoxApp.resources

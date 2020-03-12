@@ -16,7 +16,7 @@ namespace Studying_csharp_07
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PromptCloseApp());
+            Application.Run(new MoveResizeApp());
         }
     }
 }

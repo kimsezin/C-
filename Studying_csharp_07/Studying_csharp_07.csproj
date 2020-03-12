@@ -46,6 +46,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="SizeVsClientSizeApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="SizeVsClientSizeApp.Designer.cs">
+      <DependentUpon>SizeVsClientSizeApp.cs</DependentUpon>
+    </None>
+    <EmbeddedResource Include="MoveResizeApp.resx">
+      <DependentUpon>MoveResizeApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaintEventApp.resx">
+      <DependentUpon>PaintEventApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SizeVsClientSizeApp.resx">
+      <DependentUpon>SizeVsClientSizeApp.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Form1.cs">
       <SubType>Form</SubType>
     </None>
@@ -58,13 +73,25 @@
     <None Include="LoadClosedEventApp.Designer.cs">
       <DependentUpon>LoadClosedEventApp.cs</DependentUpon>
     </None>
-    <Compile Include="Program.cs" />
-    <Compile Include="PromptCloseApp.cs">
+    <None Include="PaintEventApp.cs">
       <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="PromptCloseApp.Designer.cs">
+    </None>
+    <None Include="PaintEventApp.Designer.cs">
+      <DependentUpon>PaintEventApp.cs</DependentUpon>
+    </None>
+    <None Include="MoveResizeApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="MoveResizeApp.Designer.cs">
+      <DependentUpon>MoveResizeApp.cs</DependentUpon>
+    </None>
+    <Compile Include="Program.cs" />
+    <None Include="PromptCloseApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="PromptCloseApp.Designer.cs">
       <DependentUpon>PromptCloseApp.cs</DependentUpon>
-    </Compile>
+    </None>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
