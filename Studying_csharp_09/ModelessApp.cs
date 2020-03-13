@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Studying_csharp_09
 {
-    public partial class Form1 : Form
+    public partial class ModelessApp : Form
     {
-        public Form1()
+        public ModelessApp()
         {
             InitializeComponent();
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ModelessDialogBox form1 = new ModelessDialogBox();
+            form1.Show();
         }
     }
 }

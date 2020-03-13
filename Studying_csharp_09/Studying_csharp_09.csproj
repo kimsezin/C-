@@ -46,14 +46,125 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <None Include="MessageBoxApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="MessageBoxApp.Designer.cs">
+      <DependentUpon>MessageBoxApp.cs</DependentUpon>
+    </None>
+    <None Include="ModalDialogBox.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="ModalDialogBox.Designer.cs">
+      <DependentUpon>ModalDialogBox.cs</DependentUpon>
+    </None>
+    <None Include="ModalApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="ModalApp.Designer.cs">
+      <DependentUpon>ModalApp.cs</DependentUpon>
+    </None>
+    <None Include="ModelessApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="ModelessApp.Designer.cs">
+      <DependentUpon>ModelessApp.cs</DependentUpon>
+    </None>
+    <None Include="ModelessDialogBox.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="ModelessDialogBox.Designer.cs">
+      <DependentUpon>ModelessDialogBox.cs</DependentUpon>
+    </None>
+    <None Include="MessageBoxButtonsApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="MessageBoxButtonsApp.Designer.cs">
+      <DependentUpon>MessageBoxButtonsApp.cs</DependentUpon>
+    </None>
+    <None Include="MessageBoxIconApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="MessageBoxIconApp.Designer.cs">
+      <DependentUpon>MessageBoxIconApp.cs</DependentUpon>
+    </None>
+    <None Include="MessageBoxDefaultButtonApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="MessageBoxDefaultButtonApp.Designer.cs">
+      <DependentUpon>MessageBoxDefaultButtonApp.cs</DependentUpon>
+    </None>
+    <None Include="OpenFileDialogApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="OpenFileDialogApp.Designer.cs">
+      <DependentUpon>OpenFileDialogApp.cs</DependentUpon>
+    </None>
+    <None Include="MultiSelectApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="MultiSelectApp.Designer.cs">
+      <DependentUpon>MultiSelectApp.cs</DependentUpon>
+    </None>
+    <None Include="FontDialogApp.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="FontDialogApp.Designer.cs">
+      <DependentUpon>FontDialogApp.cs</DependentUpon>
+    </None>
+    <Compile Include="ColorDialogApp.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ColorDialogApp.Designer.cs">
+      <DependentUpon>ColorDialogApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintDialogApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintDialogApp.Designer.cs">
+      <DependentUpon>PrintDialogApp.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ColorDialogApp.resx">
+      <DependentUpon>ColorDialogApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FontDialogApp.resx">
+      <DependentUpon>FontDialogApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxApp.resx">
+      <DependentUpon>MessageBoxApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxButtonsApp.resx">
+      <DependentUpon>MessageBoxButtonsApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxDefaultButtonApp.resx">
+      <DependentUpon>MessageBoxDefaultButtonApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxIconApp.resx">
+      <DependentUpon>MessageBoxIconApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModalDialogBox.resx">
+      <DependentUpon>ModalDialogBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModalApp.resx">
+      <DependentUpon>ModalApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelessApp.resx">
+      <DependentUpon>ModelessApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelessDialogBox.resx">
+      <DependentUpon>ModelessDialogBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiSelectApp.resx">
+      <DependentUpon>MultiSelectApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpenFileDialogApp.resx">
+      <DependentUpon>OpenFileDialogApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintDialogApp.resx">
+      <DependentUpon>PrintDialogApp.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
