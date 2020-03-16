@@ -1,0 +1,16 @@
+D:\Documents\GitHub\C#\Studying_csharp_11\bin\Debug\Studying_csharp_11.exe.config
+D:\Documents\GitHub\C#\Studying_csharp_11\bin\Debug\Studying_csharp_11.exe
+D:\Documents\GitHub\C#\Studying_csharp_11\bin\Debug\Studying_csharp_11.pdb
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.csprojAssemblyReference.cache
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.Form1.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.Properties.Resources.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.csproj.GenerateResource.cache
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.exe
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.pdb
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.TreeViewApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.TreeNodeApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.DomainUpDownApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.NumericUpDownApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.TrackBarApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.ProgressBarApp.resources
+D:\Documents\GitHub\C#\Studying_csharp_11\obj\Debug\Studying_csharp_11.TimerApp.resources
